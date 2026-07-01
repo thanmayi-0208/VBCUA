@@ -1,0 +1,11 @@
+streamlit
+fastapi
+openai-whisper
+sentence-transformers
+librosa
+soundfile
+numpy
+matplotlib
+reportlab
+torch
+pytest
